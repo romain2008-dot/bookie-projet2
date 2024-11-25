@@ -484,9 +484,11 @@ footer {
         width: 100%;
         border-bottom: solid var(--main-bg-color) 2px;
         border-top-color: transparent;
+        padding-bottom: 15px:
     }
 
     .item-nav:hover{
+        border-bottom-color: var(--main-color);
         border-bottom-color: var(--main-color);
     }
 
